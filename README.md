@@ -1,2 +1,11 @@
-# everyss
-The EverySS project, is an open-source github repository whose goal is to list hundreds or thousands of tools related to CSS and its infrastructure. 
+<div align="center">
+  <h1>✨ EverySS ✨</h1>
+  <i>A github repo with lots of CSS related tools</i>
+  <br/>
+  <br/>
+  <sup>INFORMATION</sup>
+  <br/>
+  <a href="https://www.github.com/ilyeshernandezdev">Author</a> - <a href="https://www.github.com/">Website</a>
+</div>
+
+<i>Please wait...</i>
